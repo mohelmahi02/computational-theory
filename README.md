@@ -81,13 +81,6 @@ See `requirements.txt` for specific versions.
   - URL: https://en.wikipedia.org/wiki/SHA-2
   - Accessible explanations and visual diagrams
 
-## Author
-
-Mohammad - Computer Science Student
-
-## License
-
-This project is for educational purposes as part of coursework requirements.
 
 ## Acknowledgments
 
